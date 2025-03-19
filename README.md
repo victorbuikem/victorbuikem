@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently working with **Sveltekit & Nestjs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Verifieddanny?tab=repositories](https://github.com/Verifieddanny?tab=repositories)
-
 - 💬 Ask me about **react, svelte, sveltekit, typescript, nextjs**
 
 - 📫 How to reach me **victorbuikemdev@gmail.com**
