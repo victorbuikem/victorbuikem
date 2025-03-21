@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I am Lex Arthur**
 
-<p align="left"> <a href="https://twitter.com/dannyclassi_c" target="blank"><img src="https://img.shields.io/twitter/follow/dannyclassi_c?logo=twitter&style=for-the-badge" alt="dannyclassi_c" /></a> </p>
+<p align="left"> <a href="https://twitter.com/victorbuikem" target="blank"><img src="https://img.shields.io/twitter/follow/victorbuikem?logo=twitter&style=for-the-badge" alt="victorbuikem" /></a> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorbuikem&label=Profile%20views&color=0e75b6&style=flat" alt="victorbuikem" /> </p>
