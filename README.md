@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **victorbuikemdev@gmail.com**
 
-- ⚡ Fun fact **I am Lex Arthur**
-
 <p align="left"> <a href="https://twitter.com/victorbuikem" target="blank"><img src="https://img.shields.io/twitter/follow/victorbuikem?logo=twitter&style=for-the-badge" alt="victorbuikem" /></a> </p>
 
 
